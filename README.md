@@ -10,6 +10,8 @@ User can change inputs, keys and many other things.
 
 It comes with a tetriminos folder. (Can be edited)
 
+
+
 To compile:
 
 make
